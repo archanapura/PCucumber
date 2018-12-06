@@ -1,0 +1,9 @@
+Feature: Explaining example in behave
+@smoke
+  Scenario Outline: Run a simple test
+    Given we have behave installed
+     When we implement numOf tests
+     |num|
+     |5  |
+     |4  |
+     Then behave will test them for us!

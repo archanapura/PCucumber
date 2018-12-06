@@ -1,0 +1,13 @@
+INSTUPfeatures.steps.Example_steps
+C:\Users\Automation\Desktop\PythonCucumber\PythonBehave\features\steps\Example_steps.py
+INFOS:&&1|1|2|0|3|5|7&&2|4|2|1|3|7|9&&2|5|2|1|3|11|9&&3|6|2|7|3|13|9&&2|8|2|1|3|16|9&&2|9|2|1|3|21|9&&3|6|2|10|3|24|13
+tests_count=6
+StepDef.step_impl1=7
+StepDef=1
+features.steps.Example_steps=2
+C:\Users\Automation\Desktop\PythonCucumber\PythonBehave\features\steps\Example_steps.py=3
+step_impl=4
+step_impl1=5
+StepDef.step_impl3=10
+step_impl2=8
+step_impl3=9
